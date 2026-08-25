@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #Asks the user for their name and quest
 def personalized_greeting():
     name=input("What is your name? ")
