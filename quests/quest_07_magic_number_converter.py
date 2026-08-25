@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 birth_year=int(input("What is your birth year? "))
 
 from datetime import datetime

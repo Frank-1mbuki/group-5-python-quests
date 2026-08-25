@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 city_name="Pamplemousses"
 current_year=2026
 your_name="Frank Imbuki"
