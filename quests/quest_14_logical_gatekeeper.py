@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 GUEST_AGE=int(input("How old are you? "))
 NUMBER_OF_COINS=int(input("How many gold coins do you have? "))
 
