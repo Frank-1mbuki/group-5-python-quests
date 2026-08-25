@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 user_age=int(input("What is your age? "))
 if user_age>=18:
     print("You are old enough to vote")
