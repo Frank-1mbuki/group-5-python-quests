@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#This is a login script that gives access when your password is correct
 
 password = "**password26##"
 
