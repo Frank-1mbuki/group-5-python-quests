@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
+
+# Loop continuously until a valid number is guessed.
 while True:
     guessed_number = input("Guess a number(0-100): ")
+    
+    # Ensure the input is a valid integer before doing math.
     if guessed_number.isdigit():
         guessed_number = int(guessed_number)
+        
         # 47 is the real number
         difference = 47 - guessed_number
+        
         if difference > 0:
             print("Too low!")
         elif difference < 0:
