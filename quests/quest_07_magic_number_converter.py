@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Prompt user for input and cast to integer.
+# Prompt user for input(birth year) and cast to integer.
 birth_year=int(input("What is your birth year? "))
 
 from datetime import datetime
