@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#this ask the user to enter a score and ccompares it and then prints a grade
 score = float(input("Enter your score (0-100): "))
 
 if score >= 90:
