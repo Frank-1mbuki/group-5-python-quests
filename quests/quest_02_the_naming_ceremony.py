@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#This is to print data given to variables
 hero_name = "Lady_A"
 superpower = "invisibility"
 
