@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#This calculates the cost of dragon scales, elf tears and the sum total
 
 dragon_scales = 3
 dragon_scale_price = 10
